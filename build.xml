@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Demo_Java_Jeu_Sodoku" default="jar" basedir=".">
+    <description>Sudoku Swing Java 8 / Nimbus, sans Maven.</description>
+    <import file="nbproject/build-impl.xml"/>
+</project>

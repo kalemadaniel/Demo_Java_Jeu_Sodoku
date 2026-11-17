@@ -59,7 +59,7 @@ public final class Demo_Java_Jeu_Sodoku extends JFrame {
         setContentPane(root);
 
         JPanel header = transparent(new BorderLayout());
-        JLabel title = new JLabel("SUDOKU  /  SWING");
+        JLabel title = new JLabel("SUDOKU  /  KALEMA DANIEL");
         title.setFont(new Font("SansSerif", Font.BOLD, 25));
         title.setForeground(INK);
         header.add(title, BorderLayout.WEST);

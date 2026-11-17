@@ -2,6 +2,13 @@
 
 Application de **Sudoku en Java Swing**, utilisant le thème **Nimbus**, compatible avec **Java 8** et **NetBeans 8.0.2**.
 
+Debut
+<img width="1034" height="842" alt="Capture d&#39;écran 2026-11-17 172316" src="https://github.com/user-attachments/assets/9ce82e71-5a48-4182-af4b-3172cea2bfda" />
+
+Fin
+<img width="1034" height="842" alt="Capture d&#39;écran 2026-11-17 172402" src="https://github.com/user-attachments/assets/e73e8870-d1b7-4ce4-b6cb-281d62aece55" />
+
+
 Le projet utilise **Ant**, sans Maven ni bibliothèque externe.
 
 ## Fonctionnalités
